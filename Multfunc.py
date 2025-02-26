@@ -5,7 +5,7 @@
 
 
 def multiplyfunction(x,y):
-    print(x*y)
+    return x*y
 
 
 # In[ ]:
